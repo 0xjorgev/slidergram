@@ -1,0 +1,15 @@
+PODS:
+  - moa (9.0.2)
+  - PureLayout (3.0.2)
+
+DEPENDENCIES:
+  - moa (~> 9.0)
+  - PureLayout
+
+SPEC CHECKSUMS:
+  moa: b73dc5e0efa1fad00711c4608e41b197f4d15b12
+  PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
+
+PODFILE CHECKSUM: 4838e80329b89f6903072abbb3c7f5c58df865c8
+
+COCOAPODS: 1.2.1
